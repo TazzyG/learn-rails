@@ -30,6 +30,7 @@ gem 'gibbon'
 gem 'high_voltage'
 gem 'simple_form'
 gem 'high_voltage'
+gem 'gibbon'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
